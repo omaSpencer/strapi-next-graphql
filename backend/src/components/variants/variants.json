@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_variants_variants",
+  "info": {
+    "displayName": "variants",
+    "icon": "anchor"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "colors": {
+      "displayName": "colors",
+      "type": "component",
+      "repeatable": true,
+      "component": "variants.colors"
+    }
+  }
+}

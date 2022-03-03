@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_variants_colors",
+  "info": {
+    "displayName": "colors",
+    "icon": "american-sign-language-interpreting"
+  },
+  "options": {},
+  "attributes": {
+    "hex": {
+      "type": "string"
+    },
+    "asd": {
+      "type": "string"
+    }
+  }
+}
